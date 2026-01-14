@@ -1,4 +1,4 @@
-# 💫 About Me
+# ME
 🔭 I’m currently studying Computer Science at ETH Zurich and Business Administration at HU Berlin.  <br>👯 I’m looking to collaborate on creative and challenging software or app projects.  <br>🤝 I’m looking for help with improving my programming skills and developing AI applications.  <br>🌱 I’m currently Developing with JavaScript, TypeScript, Python, Java, HTML, and CSS.  <br>💬 Ask me about programming, engineering topics, and aviation :D.  <br>
 
 
