@@ -34,17 +34,17 @@ const yacine = {
 
 ## 💡 What I'm Working On
 
-🔭 **Current Focus:**
+ **Current Focus:**
 - Building AI-powered applications with cutting-edge ML frameworks
 - Exploring distributed systems and cloud-native architectures
 - Contributing to open-source projects
 
-🌱 **Growing In:**
+ **Growing In:**
 - Advanced TypeScript patterns and system design
 - MLOps and production ML pipelines
 - Scalable backend architectures
 
-👯 **Collaboration Goals:**
+ **Collaboration Goals:**
 - Innovative full-stack applications
 - AI/ML projects with real-world impact
 - Open-source tools that solve genuine problems
@@ -119,16 +119,6 @@ const yacine = {
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrxYacinex&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=MrxYacinex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
