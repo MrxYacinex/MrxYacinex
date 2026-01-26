@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### 🎓 CS @ ETH Zurich | Business @ HU Berlin
+  ### 🎓 ComputerScience Student @ ETH Zurich
   
   *Building the future, one commit at a time*
   
