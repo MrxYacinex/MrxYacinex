@@ -124,16 +124,6 @@ const yacine = {
 
 ---
 
-## 📚 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrxYacinex&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/MrxYacinex/your-repo-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrxYacinex&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/MrxYacinex/your-repo-2)
-
-</div>
-
----
 
 ## 💭 Dev Wisdom
 
