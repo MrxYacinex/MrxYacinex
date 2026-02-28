@@ -1,4 +1,4 @@
-# Hey there! I'm Yacine 👋
+# I'm Yacine
 
 <div align="center">
   
@@ -29,25 +29,6 @@ const yacine = {
     funFact: "I can explain how planes fly AND how neural networks learn"
 };
 ```
-
----
-
-## 💡 What I'm Working On
-
- **Current Focus:**
-- Building AI-powered applications with cutting-edge ML frameworks
-- Exploring distributed systems and cloud-native architectures
-- Contributing to open-source projects
-
- **Growing In:**
-- Advanced TypeScript patterns and system design
-- MLOps and production ML pipelines
-- Scalable backend architectures
-
- **Collaboration Goals:**
-- Innovative full-stack applications
-- AI/ML projects with real-world impact
-- Open-source tools that solve genuine problems
 
 ---
 
