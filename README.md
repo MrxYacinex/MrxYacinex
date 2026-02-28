@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const yacine = {
@@ -32,7 +32,7 @@ const yacine = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Technologies
 
 <details open>
 <summary><b>Languages</b></summary>
