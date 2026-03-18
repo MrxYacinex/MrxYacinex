@@ -117,7 +117,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
+### “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
 
 </div>
