@@ -125,5 +125,5 @@ I'm always open to interesting conversations and collaboration opportunities!
 ---
 
 <div align="center">
-  <i> From <a href="https://github.com/MrxYacinex">MrxYacinex</a> with passion and dedication</i>
+  <i> From <a href="https://github.com/MrxYacinex">MrxYacinex</a></i>
 </div>
