@@ -89,7 +89,7 @@ const yacine = {
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -106,35 +106,23 @@ const yacine = {
 
 ---
 
-
-## 💭 Dev Wisdom
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
 
 - 💼 Open to freelance projects and collaborations
-- 📧 Reach out for: Project discussions, tech talks, or aviation chats
+- 📧 Reach out for: Project discussions, tech talks, or chats
 - 🤝 Looking to contribute to impactful open-source projects
 
 <div align="center">
 
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=MrxYacinex&icon=6&color=6)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/MrxYacinex">MrxYacinex</a> with passion and dedication</i>
+  <i> From <a href="https://github.com/MrxYacinex">MrxYacinex</a> with passion and dedication</i>
 </div>
