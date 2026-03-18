@@ -107,13 +107,12 @@ const yacine = {
 
 ---
 
-## Let's Connect!
+## Let’s Connect
 
-I'm always open to interesting conversations and collaboration opportunities!
+Open to collaborations and impactful projects.
 
-- 💼 Open to freelance projects and collaborations
-- 📧 Reach out for: Project discussions, tech talks, or chats
-- 🤝 Looking to contribute to impactful open-source projects
+📧 Projects, ideas, or tech discussions  
+🤝 Open source contributions welcome
 
 <div align="center">
 
