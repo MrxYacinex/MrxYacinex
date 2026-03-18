@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ###  ComputerScience Student @ ETH Zurich 🇨🇭
+  ###  ComputerScience Student @ ETH Zurich
   
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yacine-tadjine/)
