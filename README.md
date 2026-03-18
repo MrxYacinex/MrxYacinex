@@ -4,7 +4,6 @@
   
   ###  ComputerScience Student @ ETH Zurich
   
-  *Building the future, one commit at a time*
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yacine-tadjine/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ytadjine.com)
